@@ -8,10 +8,8 @@ Hack-O-Uplift is an online hackathon
 
 ## Team Members
 
-1. Pranauv AJ
-2. Aravinth R
-3. Shyam R
-4. Niketha S
+1. Govind Maheshwari
+2. Ayush Kankane
 
 ## Topic - Organic Farming
 
